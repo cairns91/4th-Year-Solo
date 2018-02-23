@@ -1,4 +1,4 @@
-# 4th-Year-Solo
+# 4th-Year-Solo (Ongoing)
 
 My project is to design and implement a search-based algorithm to use in the automated testing of concurrent code.
 
